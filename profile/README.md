@@ -1,5 +1,5 @@
 ## Official Website
-visit our official website [here](https://www.ucidbf.github.io)
+visit our official website [here](https://ucidbf.github.io)
 
 ## Overview
 
